@@ -1,0 +1,1 @@
+Contains small libraries used in custom domotics/security applications
